@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mbarryyy/ai-prompt-project/main/src/logo.png" alt="AI Prompt Builder" width="120" />
+  <img src="https://raw.githubusercontent.com/mbarryyy/ai-prompt-generator/main/src/logo.png" alt="AI Prompt Builder" width="120" />
 </p>
 
 <h1 align="center">🧠 AI Prompt Builder</h1>
 
 <p align="center">
   <strong>Build better AI prompts with intelligent vocabulary suggestions and semantic structure.</strong><br>
-  <strong>使用智能词汇建议和语义结构构建更好的AI提示词。</strong>
 </p>
 
 <p align="center">
